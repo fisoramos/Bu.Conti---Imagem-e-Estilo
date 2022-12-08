@@ -1,0 +1,21 @@
+* {
+    font-family: 'Julius Sans One', sem serifa;
+}
+
+.inicio {
+    color:rgba(184, 7, 128, 0.893);
+    margin: 100px 0px 80px 450px;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-size: x-large; 
+    cursor: pointer;
+    word-spacing: 50px;
+    font-weight: bold;
+    position: absolute;
+
+}
+
+.imagem-logo {
+    margin-left: 0px;
+    margin-top: 0;
+    position: relative;
+}
